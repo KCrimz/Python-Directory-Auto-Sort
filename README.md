@@ -15,4 +15,4 @@
 
 - Some python coding and time. If you are just using this for the function literally just typing in the directories
   
-<h2> CODE IS LOCATED IN FILES ABOVE!!!</h2> 
+<h2> CODE IS LOCATED IN FILE ABOVE!!!</h2> 
